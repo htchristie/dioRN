@@ -16,4 +16,7 @@ Aplicativo de compilação de links para mídias sociais, construído em React N
 - Linking API
 - Modificação de código no AndroidManifest para abrir link
 
+## Créditos
+<a target="_blank" href="https://icons8.com/icon/85140/instagram">Ícones</a> por <a target="_blank" href="https://icons8.com">Icons8</a>
+
 
